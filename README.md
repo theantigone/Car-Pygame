@@ -9,4 +9,3 @@ The game also includes sound effects and background music, managed using Pygame'
 The game's code is organized and modular, with separate functions for handling different aspects of the game such as drawing the game objects, handling user input, and managing the game state. The code also demonstrates Pygame's event-handling system in response to user actions such as keyboard inputs and mouse clicks.  
 
 By Quang Hoang
-5/13/2024 - 5/16/2024
