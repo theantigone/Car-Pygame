@@ -347,7 +347,7 @@ def game_intro():
 
 def draw_menu():
     menu_font = pygame.font.SysFont('gabriola', 20)
-    menu_items = ['Game Mode', 'Instructions']
+    menu_items = ['Game Mode', 'Instructions', 'Quit']
     menu_width = 100
     menu_height = 30
     for i, item in enumerate(menu_items):
@@ -367,6 +367,9 @@ def handle_menu_click(pos):
         elif 100 <= x < 200:
             pause = True
             instructions_menu()
+        elif 200 <= x < 300:
+            pygame.quit()
+            quit()
 
 
 def game_loop():
