@@ -20,7 +20,7 @@ git clone https://github.com/theantigone/Car-Pygame.git
 3. Open **exe.win-amd64-3.9**.
 4. Open **game.exe**, and you should be ready!
 
-### Notes
+## Notes
 
 Currently, it only works on Windows. I may soon update the game to work for Max OS X and Linux machines.
 
