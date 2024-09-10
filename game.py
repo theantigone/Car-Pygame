@@ -8,8 +8,8 @@ import pygame
 
 pygame.init()  # initialises pygame
 
-crash_sound = pygame.mixer.Sound('crash.mp3')
-pygame.mixer.music.load('music.mp3')
+crash_sound = pygame.mixer.Sound('assets/music/crash.mp3')
+pygame.mixer.music.load('assets/music/music.mp3')
 
 # window dimensions
 display_width = 800
@@ -38,11 +38,11 @@ pygame.display.set_caption('Try Not To Crash!')  # sets the window title
 clock = pygame.time.Clock()  # sets the frames per second (fps) of the game
 
 # loads images from directory
-car_img = pygame.image.load('car.png')
-game_icon = pygame.image.load('car_icon.png')
-background_img = pygame.image.load('background.jpg')
-instructions_img = pygame.image.load('instructions_background.jpg')
-main_menu_img = pygame.image.load('main_menu_background.jpg')
+car_img = pygame.image.load('assets/images/car.png')
+game_icon = pygame.image.load('assets/images/car_icon.png')
+background_img = pygame.image.load('assets/images/background.jpg')
+instructions_img = pygame.image.load('assets/images/instructions_background.jpg')
+main_menu_img = pygame.image.load('assets/images/main_menu_background.jpg')
 
 pygame.display.set_icon(game_icon)
 
@@ -290,7 +290,7 @@ def display_instructions(show_resume_button):
 
         # displays instructions
         small_text = pygame.font.SysFont('gabriola', 20)
-        display_instruction('Use left and right arrow keys to move the car.', (display_height / 2), small_text, white)
+        display_instruction('Use left and right arrow keys to move the car; avoid hitting the wall.', (display_height / 2), small_text, white)
         display_instruction('Avoid the brown blocks falling down from the sky.', (display_height / 1.85), small_text,
                             white)
         display_instruction('Press the escape key to pause the game.', (display_height / 1.725), small_text, white)
