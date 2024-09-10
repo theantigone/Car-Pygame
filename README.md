@@ -20,8 +20,8 @@ git clone https://github.com/theantigone/Car-Pygame.git
 3. Open **exe.win-amd64-3.9**.
 4. Open **game.exe**, and you should be ready!
 
-## Requirements
+~~## Requirements~~
 
-~~1. **Python** is required. You can download the latest version of Python [here](https://www.python.org/downloads/)!
-   - *Pip* should also be installed by default if you installed Python from [python.org](https://www.python.org/)! However, if, for some reason, pip was not installed on your system, refer to [here](https://python.land/virtual-environments/installing-packages-with-pip#Python_Install_Pip) to install pip manually!
-2. Python's module **Pygame** is also required. Once you have downloaded Python and pip, install Pygame on your terminal! Refer to [here](https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/) if you are on Windows, [here](https://www.geeksforgeeks.org/install-pygame-in-linux/) if you are on Linux, or [here](https://www.geeksforgeeks.org/install-pygame-in-macos/) if you are on Mac OS X!~~
+~~1. **Python** is required. You can download the latest version of Python [here](https://www.python.org/downloads/)!~~
+   ~~- *Pip* should also be installed by default if you installed Python from [python.org](https://www.python.org/)! However, if, for some reason, pip was not installed on your system, refer to [here](https://python.land/virtual-environments/installing-packages-with-pip#Python_Install_Pip) to install pip manually!~~
+~~2. Python's module **Pygame** is also required. Once you have downloaded Python and pip, install Pygame on your terminal! Refer to [here](https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/) if you are on Windows, [here](https://www.geeksforgeeks.org/install-pygame-in-linux/) if you are on Linux, or [here](https://www.geeksforgeeks.org/install-pygame-in-macos/) if you are on Mac OS X!~~
