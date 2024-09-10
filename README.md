@@ -18,7 +18,10 @@ By Quang Hoang
 
 ## How To Play
 
-1. Clone the repository (copy the files required to play the game) using a Windows terminal (Command Prompt/Windows PowerShell) or a Mac/Linux terminal: `git clone https://github.com/theantigone/Car-Pygame.git`.
+1. Clone the repository (copy the files required to play the game) using a Windows terminal (Command Prompt/Windows PowerShell) or a Mac/Linux terminal:
+```
+git clone https://github.com/theantigone/Car-Pygame.git
+```
 2. Open the **build** folder inside your new **Car-Pygame** folder.
 3. Open **exe.win-amd64-3.9**.
-4. Open **game.exe**, and you should be ready to go!
+4. Open **game.exe**, and you should be ready!
