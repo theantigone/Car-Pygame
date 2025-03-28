@@ -17,7 +17,7 @@ By Quang Hoang
 git clone https://github.com/theantigone/Car-Pygame.git
 ```
    - Alternatively, you could download the files as a ZIP file by clicking the blue **<> Code** Button.
-2. Open the **build** folder inside your new **Car-Pygame** folder.
+2. Open the **src**, then **build** folder inside your new **Car-Pygame** folder.
 3. Open **exe.win-amd64-3.9**.
 4. Open **game.exe**, and enjoy!
 
