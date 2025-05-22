@@ -8,8 +8,8 @@ import pygame
 
 pygame.init()  # initialises pygame
 
-crash_sound = pygame.mixer.Sound('assets/music/crash.mp3')
-pygame.mixer.music.load('assets/music/music.mp3')
+crash_sound = pygame.mixer.Sound('../data/external/music/crash.mp3')
+pygame.mixer.music.load('../data/external/music/music.mp3')
 
 # window dimensions
 display_width = 800
@@ -38,11 +38,11 @@ pygame.display.set_caption('Try Not To Crash!')  # sets the window title
 clock = pygame.time.Clock()  # sets the frames per second (fps) of the game
 
 # loads images from directory
-car_img = pygame.image.load('assets/images/car.png')
-game_icon = pygame.image.load('assets/images/car_icon.png')
-background_img = pygame.image.load('assets/images/background.jpg')
-instructions_img = pygame.image.load('assets/images/instructions_background.jpg')
-main_menu_img = pygame.image.load('assets/images/main_menu_background.jpg')
+car_img = pygame.image.load('../data/external/images/car.png')
+game_icon = pygame.image.load('../data/external/images/car_icon.png')
+background_img = pygame.image.load('../data/external/images/background.jpg')
+instructions_img = pygame.image.load('../data/external/images/instructions_background.jpg')
+main_menu_img = pygame.image.load('../data/external/images/main_menu_background.jpg')
 
 pygame.display.set_icon(game_icon)
 
