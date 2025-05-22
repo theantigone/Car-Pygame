@@ -1,2 +1,5 @@
 # Editor settings
 .idea/
+
+# Python virtual environment
+venv/
