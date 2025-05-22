@@ -9,7 +9,7 @@
 
 ## 1 Synopsis
 
-This personal project is a Python game developed using the Pygame library. "Try Not To Crash!" is a survival game where the player driving a car avoids falling obstacles. The player can drive the vehicle left or right across the screen to dodge the obstacles falling from the sky!
+This personal project is a Python (developed in version 3.9) game developed using the Pygame library. "Try Not To Crash!" is a survival game where the player driving a car avoids falling obstacles. The player can drive the vehicle left or right across the screen to dodge the obstacles falling from the sky!
 
 The game features a variety of elements including a main menu, a pause menu, and different game modes. The game modes add to the game's challenge by progressively making the falling blocks harder to dodge!
 
