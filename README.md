@@ -28,9 +28,7 @@ By Quang Hoang
 
 ## Motivation
 
-I wanted to build my first project to add to my portfolio in the summer of 2024, so whilst I was searching the web for ideas, I discovered a [guided project](https://pythonprogramming.net/pygame-python-3-part-1-intro/) that walked through creating a video game from scratch using the [**Pygame**](https://www.pygame.org/) module.
-
-I thought that I would greatly enjoy creating a video game, so I decided to try it out!
+I wanted to build my first project to add to my portfolio in the summer of 2024, so I decided to create a video game with a GUI (graphical user interface) using [**Pygame**](https://www.pygame.org/) because I like playing video games, so why not _create one_?
 
 Coding this game was so fun that I finished the project in **three** days!
 
