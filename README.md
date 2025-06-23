@@ -14,7 +14,7 @@
 
 ---
 
-![main menu](data/carpygame.png)[^1]
+![main menu](/data/carpygame.png)[^1]
 
 [^1]: The main menu of my GUI game **Try Not To Crash!**.
 
